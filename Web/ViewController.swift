@@ -33,6 +33,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIWebViewDelegate {
     Called when user taps the "Go" on the keyboard.
     Check to see if "http://" is present.
     */
+    //
     
     func textFieldShouldReturn(textField: UITextField!) -> Bool {
         
